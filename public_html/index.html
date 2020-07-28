@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta name="description" content="Enter description here">
+   <title>KWT Projekat LS</title>
+   <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+   <link rel="stylesheet" href="style.css">
+   <script src="jquery/jquery.min.js"></script>
+   <script src="bootstrap/js/bootstrap.min.js"></script>
+   <script src="funkcije.js"></script>
+</head>
+<body>
+    <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#"><img id="korpa" src="slike/korpa.png" height="40" data-toggle="modal" data-target="#korpaModal"> <span id="koliko" class="koliko">0</span></a>
+            <div class="modal fade" id="korpaModal" tabindex="-1" role="dialog" aria-labelledby="korpaModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="korpaModalLabel">Modal title</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body" id="korpa-sadrzaj">
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Vrati se nazad</button>
+                            <button type="button" class="btn btn-primary">Nastavi sa kupovinom</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+        
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active" id="pocetna">
+                    <a class="nav-link" href="#LukaSaicic">Pocetna</a>
+                </li>
+                <li class="nav-item" id="info">
+                    <a class="nav-link" href="#">Info</a>
+                </li>
+                <li class="nav-item" id="kontakt">
+                    <a class="nav-link" href="#">Kontakt</a>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Kategorije
+                    </a>
+                    <div id="kategorije" class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a id="Sve" class="dropdown-item active" href="#" onclick="prikazi('Sve', 'Sve')">Sve</a>
+                        <div class="dropdown-divider"></div>
+                    </div>
+                  </li>
+            </ul>
+                <input id="search" class="form-control mr-sm-2 search" type="search" placeholder="Search" aria-label="Search" oninput="pretrazi()">
+            </div>
+        </nav>
+
+        <div id="spisak">
+        </div>
+    </div>
+</body>
+</html>

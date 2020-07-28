@@ -1,0 +1,70 @@
+.grid-item {
+    width: 30%;
+    position: relative;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid rgba(0,0,0,0.20);
+    border-radius: 10px;
+    height: 650px;
+    overflow: hidden;
+    -webkit-box-shadow: 3px 3px 12px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 3px 12px -1px rgba(0,0,0,0.75);
+    box-shadow: 3px 3px 12px -1px rgba(0,0,0,0.75);
+}
+
+.grid-slika {
+    text-align: center;
+}
+
+@media (min-width: 992px) {
+    .search {
+        margin-left: 200px;
+        margin-right: 55px !important;
+    }
+}
+
+.slika {
+    border-radius: 10px;;
+}
+
+.text {
+    overflow-y: auto;
+    height: 220px;
+}
+
+.dodaj-u-korpu {
+    height: 38px;
+    margin: 6px;
+    position: absolute;
+    width: 95%;
+    left: 0px;
+    bottom: 0px;
+}
+
+.dodaj-u-korpu > button {
+    width: 100%;
+}
+
+.naslov {
+    height: auto;
+    text-align: center;
+    font-weight: 700;
+    font-size: x-large;
+}
+
+.cena {
+    position: relative;
+    bottom: -15px;
+    text-align: center;
+    color: #FF0000;
+    font-weight: 500;
+}
+
+.koliko {
+    position: absolute;
+    left: 53px;
+    top: 0px;
+    color: #FF0000;
+    font-weight: 600;
+}

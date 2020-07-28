@@ -1,0 +1,215 @@
+{
+    "uponudi": [
+        {
+            "ime": "Patike",
+            "predmeti": [
+                {
+                    "id": "patike1",
+                    "ime": "Nike Air Max 93",
+                    "slika": "nik93.jpg",
+                    "opis": "Nike Air Max je linija cipela proizvedena od strane Nike, Inc., s prvim modelom objavljenim 1987. Cipele Air Max identificirane su po međunožjima u koje su ugrađene fleksibilne uretanske vrećice ispunjene gelom pod pritiskom, vidljive s vanjske strane cipele i namijenjene za osigurajte jastuk pod nogama. Air Max je zamislio Tinker Hatfield, koji je u početku radio za Nike dizajnirajući prodavaonice, a osnovnu tehnologiju je stvorio i patentirao M. Frank Rudy.",
+                    "cena": 9800.5,
+                    "dostupno": true
+                },
+                {
+                    "id": "patike2",
+                    "ime": "NIke AirMax 270",
+                    "slika": "jd_product_list.jpg",
+                    "opis": "Cipela je prvobitno puštena 1. Februara 2018. Nazvana je „270“ zbog 270 stupnjeva vidljivosti u zračnoj jedinici oko cipela, a bila je inspirirana cipelama Air Max 93 i 180. Bila je to prva Air Max cipela biti dizajniran za životne svrhe, a ne za trčanje. To je ujedno bila i najviša Air jedinica koja se ikad pustila, visina 32 mm.",
+                    "cena": 17549.9,
+                    "dostupno": true
+                },
+                {
+                    "id": "patike3",
+                    "ime": "Nike AirMax 97",
+                    "slika": "nik977.jpg",
+                    "opis": "Nike 1997. godine Air Max 97 su inspirisali brzi vozovi sa japanskim mecima. Predstavljen je sa elegantnim, metalnim srebrnim bojama koje su sadržavale gotovo celu dužinu vidljive zračne jedinice. Gornje strane imaju tri reflektujuće linije izrađene od 3M Scotchlite materijala.Air Max 97 flash fotografija koja ističe reflektirajući 3M Scotchlite.Nike Air Max 97 je Nike patika za trčanje koju je dizajnirao Christian Tresser. Inspirirali su je japanski brzi vozovi sa bulletima, a sadrži mješavinu kože, pjene i vidljivog zraka cijele dužine. Originalni 'Silver Bullet' kolorit ponovo je objavljen u SAD-u 13. aprila 2017 za 160 dolara. Preko 13 novih kolornih proizvoda pogađa trgovce od 1. avgusta 2017.",
+                    "cena": 12700.0,
+                    "dostupno": false
+                },
+                {
+                    "id": "patike4",
+                    "ime": "Skechers ",
+                    "slika": "primer.jpg",
+                    "opis": "Kompanija nudi dve kategorije obuće: lajfstajl divizija koja uključuje skečers memori foum, humanitarnu liniju BOBS i rilaksd fit komfort obuću, te performans divizija koja uključuje skečers go-ran i skečers go-vok obuću. Preko licenciranih ugovora, kompanija nudi brendirane torbe, satove, naočale i dodatnu odeću.Kompanija nudi dve kategorije obuće: lajfstajl divizija koja uključuje skečers memori foum, humanitarnu liniju BOBS i rilaksd fit komfort obuću, te performans divizija koja uključuje skečers go-ran i skečers go-vok obuću. Preko licenciranih ugovora, kompanija nudi brendirane torbe, satove, naočale i dodatnu odeću.",
+                    "cena": 7000,
+                    "dostupno": true
+                },
+                {
+                    "id": "patike5",
+                    "ime": "Adidas SuperStar",
+                    "slika": "superstar.jpg",
+                    "opis": "Model Superstar su plitke cipele/patike koje proizvodi sportska kompanija Adidas od 1969. godine. Ovaj model je prvobitno bio duboka verzija Pro modela. Poznate su i kao 'morske školjke' zbog njihovog prepoznatljivog dela za prste u obliku školjke",
+                    "cena": 8200,
+                    "dostupno": true
+                },
+                 {
+                    "id": "patike6",
+                    "ime": "Adidas ALPHATORSION ",
+                    "slika": "adidas.jpg",
+                    "opis": "Adidas (Adidas, stilizovano kao adidas) nemački je proizvođač sportske opreme. Adidas je danas najveći nemački i evropski proizvođač sportske opreme sa fabrikama i prodavnicama širom sveta. Nastao je 1948. godine iz zajedničke firme Adolfa i Rudolfa Daslera. Brend je dobio ime po svom osnivaču Adolfu (Adiju) Dasleru.Adidas (Adidas, stilizovano kao adidas) nemački je proizvođač sportske opreme. Adidas je danas najveći nemački i evropski proizvođač sportske opreme sa fabrikama i prodavnicama širom sveta. Nastao je 1948. godine iz zajedničke firme Adolfa i Rudolfa Daslera. Brend je dobio ime po svom osnivaču Adolfu (Adiju) Dasleru",
+                    "cena": 11000,
+                    "dostupno": true
+                },
+                 {
+                    "id": "patike7",
+                    "ime": "Under Armour",
+                    "slika": "UA.jpg",
+                    "opis": "Under Armor je 25. septembra 1996. osnovao Kevin Plank, tada 24-godišnji bivši kapetan specijalnih timova fudbalske reprezentacije Univerziteta Maryland. Plank je u početku započeo posao iz podruma svoje bake u Washingtonu, D.C., Vrijeme je proveo putujući Istočnom obalom, osim odjeće u prtljažniku svog automobila. Njegova prva timska prodaja stigla je krajem 1996. s prodajom od 17.000 dolara. Iz podruma svoje bake Plank se preselio u Baltimore. Nakon nekoliko poteza u gradu, preselio se u svoje trenutno sjedište u Tide Pointu.Under Armor je 25. septembra 1996. osnovao Kevin Plank, tada 24-godišnji bivši kapetan specijalnih timova fudbalske reprezentacije Univerziteta Maryland. Plank je u početku započeo posao iz podruma svoje bake u Washingtonu, D.C., Vrijeme je proveo putujući Istočnom obalom, osim odjeće u prtljažniku svog automobila. Njegova prva timska prodaja stigla je krajem 1996. s prodajom od 17.000 dolara. Iz podruma svoje bake Plank se preselio u Baltimore. Nakon nekoliko poteza u gradu, preselio se u svoje trenutno sjedište u Tide Pointu.",
+                    "cena": 15000,
+                    "dostupno": true
+                },
+                 {
+                    "id": "patike8",
+                    "ime": "Puma decija patika ",
+                    "slika": "puma.jpg",
+                    "opis": "Puma je nemački multinacionalni proizvođač sportske opreme sa sedištem u gradu Hercogenaurahu u Bavarskoj.Kompanija je osnovana 1924. godine kao Gebrüder Dassler Schuhfabrik braće Adolfa i Rudolfa Daslera. Odnosi između dva brata su se pogoršala što je dovelo do formiranja dve odvojene firme 1948. godine, Adidasa i Pume. Braća nisu komunicirala do kraja svojih života, a njihove firme su postale najljući konkurenti. Spor između braće oko toga koji se prvi dosetio da proizvodi kopačke sa kramponima još nije rešen.",
+                    "cena": 8999.9,
+                    "dostupno": true
+                }
+            ]
+        },
+        {
+            "ime": "Majice",
+            "predmeti": [
+                {
+                    "id": "majice1",
+                    "ime": "5 pamucnih majica",
+                    "slika": "primer2.jpg",
+                    "opis": "Majica je deo odeće, koji se nosi na gornjem delu tela. Izrez majice može biti okrugao ili u obliku latiničnog slova V.U osnovi majica ima oblik sličan košulji sa kratkim rukavima, iako postoje i majice s dugim rukavima. Majice se smatraju manje formalnom vrstom odeće od košulja.Majice su obično izrađene od pamuka, sintetičkih tkanina, vune, ili njihovih mešavina. Često su ukrašene tekstom ili slikama.U nekim islamskim zemaljama, žene ne smeju nositi majicu u javnosti.",
+                    "cena": 4500,
+                    "dostupno": true
+                },
+                {
+                    "id": "majice2",
+                    "ime": "Kappa majica bela",
+                    "slika": "kappa.jpg",
+                    "opis": "Majica je deo odeće, koji se nosi na gornjem delu tela. Izrez majice može biti okrugao ili u obliku latiničnog slova V.U osnovi majica ima oblik sličan košulji sa kratkim rukavima, iako postoje i majice s dugim rukavima. Majice se smatraju manje formalnom vrstom odeće od košulja.Majice su obično izrađene od pamuka, sintetičkih tkanina, vune, ili njihovih mešavina. Često su ukrašene tekstom ili slikama.U nekim islamskim zemaljama, žene ne smeju nositi majicu u javnosti.",
+                    "cena": 2000,
+                    "dostupno": true
+                },
+                {
+                    "id": "majice3",
+                    "ime": "Kappa majica roze",
+                    "slika": "kappa2.jpg",
+                    "opis": "Majica je deo odeće, koji se nosi na gornjem delu tela. Izrez majice može biti okrugao ili u obliku latiničnog slova V.U osnovi majica ima oblik sličan košulji sa kratkim rukavima, iako postoje i majice s dugim rukavima. Majice se smatraju manje formalnom vrstom odeće od košulja.Majice su obično izrađene od pamuka, sintetičkih tkanina, vune, ili njihovih mešavina. Često su ukrašene tekstom ili slikama.U nekim islamskim zemaljama, žene ne smeju nositi majicu u javnosti.",
+                    "cena": 1890,
+                    "dostupno": false
+                },
+                {
+                    "id": "majice4",
+                    "ime": "Majica Crvena zvezda",
+                    "slika": "crvenazvezda.jpg",
+                    "opis": "Crvena zveda,DS.Majica je deo odeće, koji se nosi na gornjem delu tela. Izrez majice može biti okrugao ili u obliku latiničnog slova V.U osnovi majica ima oblik sličan košulji sa kratkim rukavima, iako postoje i majice s dugim rukavima. Majice se smatraju manje formalnom vrstom odeće od košulja.Majice su obično izrađene od pamuka, sintetičkih tkanina, vune, ili njihovih mešavina. Često su ukrašene tekstom ili slikama.U nekim islamskim zemaljama, žene ne smeju nositi majicu u javnosti.",
+                    "cena": 3000,
+                    "dostupno": true
+                },
+                {
+                    "id": "majice4",
+                    "ime": "Nike majica",
+                    "slika": "nikemajica.jpg",
+                    "opis": "Majica je deo odeće, koji se nosi na gornjem delu tela. Izrez majice može biti okrugao ili u obliku latiničnog slova V.U osnovi majica ima oblik sličan košulji sa kratkim rukavima, iako postoje i majice s dugim rukavima. Majice se smatraju manje formalnom vrstom odeće od košulja.Majice su obično izrađene od pamuka, sintetičkih tkanina, vune, ili njihovih mešavina. Često su ukrašene tekstom ili slikama.U nekim islamskim zemaljama, žene ne smeju nositi majicu u javnosti.",
+                    "cena": 3450,
+                    "dostupno": true
+                },
+                {
+                    "id": "majice77",
+                    "ime": "Majica Srbija bela",
+                    "slika": "majicasrbija.jpg",
+                    "opis": "Podrzite svoju zemlju na predstojecem prvenstvu sveta.Majica je deo odeće, koji se nosi na gornjem delu tela. Izrez majice može biti okrugao ili u obliku latiničnog slova V.U osnovi majica ima oblik sličan košulji sa kratkim rukavima, iako postoje i majice s dugim rukavima. Majice se smatraju manje formalnom vrstom odeće od košulja.Majice su obično izrađene od pamuka, sintetičkih tkanina, vune, ili njihovih mešavina. Često su ukrašene tekstom ili slikama.U nekim islamskim zemaljama, žene ne smeju nositi majicu u javnosti.",
+                    "cena": 1500,
+                    "dostupno": true
+                },
+                {
+                    "id": "majice5",
+                    "ime": "Majica Srbija sarena",
+                    "slika": "srbija2.jpg",
+                    "opis": "Podrzite svoju zemlju na predstojecem prvenstvu sveta.Majica je deo odeće, koji se nosi na gornjem delu tela. Izrez majice može biti okrugao ili u obliku latiničnog slova V.U osnovi majica ima oblik sličan košulji sa kratkim rukavima, iako postoje i majice s dugim rukavima. Majice se smatraju manje formalnom vrstom odeće od košulja.Majice su obično izrađene od pamuka, sintetičkih tkanina, vune, ili njihovih mešavina. Često su ukrašene tekstom ili slikama.U nekim islamskim zemaljama, žene ne smeju nositi majicu u javnosti.",
+                    "cena": 87452,
+                    "dostupno": true
+                },
+                {
+                    "id": "majice6",
+                    "ime": "Real Madrid majica",
+                    "slika": "real.jpg",
+                    "opis": "Volite Real? Prava majica za vas.Majica je deo odeće, koji se nosi na gornjem delu tela. Izrez majice može biti okrugao ili u obliku latiničnog slova V.U osnovi majica ima oblik sličan košulji sa kratkim rukavima, iako postoje i majice s dugim rukavima. Majice se smatraju manje formalnom vrstom odeće od košulja.Majice su obično izrađene od pamuka, sintetičkih tkanina, vune, ili njihovih mešavina. Često su ukrašene tekstom ili slikama.U nekim islamskim zemaljama, žene ne smeju nositi majicu u javnosti.",
+                    "cena": 5990,
+                    "dostupno": true
+                },{
+                    "id": "majice7",
+                    "ime": "Plava majica",
+                    "slika": "plava.jpg",
+                    "opis": "Majica je deo odeće, koji se nosi na gornjem delu tela. Izrez majice može biti okrugao ili u obliku latiničnog slova V.U osnovi majica ima oblik sličan košulji sa kratkim rukavima, iako postoje i majice s dugim rukavima. Majice se smatraju manje formalnom vrstom odeće od košulja.Majice su obično izrađene od pamuka, sintetičkih tkanina, vune, ili njihovih mešavina. Često su ukrašene tekstom ili slikama.U nekim islamskim zemaljama, žene ne smeju nositi majicu u javnosti.",
+                    "cena": 1000,
+                    "dostupno": true
+                },
+                {
+                    "id": "majice8",
+                    "ime": "Lacoste polo majica",
+                    "slika": "lacoste.jpg",
+                    "opis": "Majica je deo odeće, koji se nosi na gornjem delu tela. Izrez majice može biti okrugao ili u obliku latiničnog slova V.U osnovi majica ima oblik sličan košulji sa kratkim rukavima, iako postoje i majice s dugim rukavima. Majice se smatraju manje formalnom vrstom odeće od košulja.Majice su obično izrađene od pamuka, sintetičkih tkanina, vune, ili njihovih mešavina. Često su ukrašene tekstom ili slikama.U nekim islamskim zemaljama, žene ne smeju nositi majicu u javnosti.",
+                    "cena": 7890,
+                    "dostupno": true
+                },
+                {
+                    "id": "majice9",
+                    "ime": "Fila majica",
+                    "slika": "fila.jpg",
+                    "opis": "Majica je deo odeće, koji se nosi na gornjem delu tela. Izrez majice može biti okrugao ili u obliku latiničnog slova V.U osnovi majica ima oblik sličan košulji sa kratkim rukavima, iako postoje i majice s dugim rukavima. Majice se smatraju manje formalnom vrstom odeće od košulja.Majice su obično izrađene od pamuka, sintetičkih tkanina, vune, ili njihovih mešavina. Često su ukrašene tekstom ili slikama.U nekim islamskim zemaljama, žene ne smeju nositi majicu u javnosti.",
+                    "cena": 2455,
+                    "dostupno": true
+                }
+            ]
+        },
+        {
+        "ime": "Trenerke",
+            "predmeti": [
+                {
+                    "id": "trenerka1",
+                    "ime": "Nike trenerka",
+                    "slika": "nikedonji.jpeg",
+                    "opis": "Najki jedan je od vodećih američkih proizvođača sportske opreme. Sedište ove firme nalazi se u Portlandu, u Oregonu, u SAD.Ova kompanija je do 2008. godine zaposlila preko 30.000 ljudi širom sveta. „Najki” je sponzor mnogih visoko rangiranih sportista i sportskih timova širom sveta, sa svuda prepoznatljivom sloganom (eng) „Just do it”. Današnji konkurenti su nemački „Adidas” i „Puma”. ",
+                    "cena": 4500,
+                    "dostupno": true
+                },
+                {
+                    "id": "trenerka2",
+                    "ime": "Puma trenerka",
+                    "slika": "pumamajica.jpg",
+                    "opis": "Puma je nemački multinacionalni proizvođač sportske opreme sa sedištem u gradu Hercogenaurahu u Bavarskoj.Kompanija je osnovana 1924. godine kao Gebrüder Dassler Schuhfabrik braće Adolfa i Rudolfa Daslera. Odnosi između dva brata su se pogoršala što je dovelo do formiranja dve odvojene firme 1948. godine, Adidasa i Pume. Braća nisu komunicirala do kraja svojih života, a njihove firme su postale najljući konkurenti. Spor između braće oko toga koji se prvi dosetio da proizvodi kopačke sa kramponima još nije rešen",
+                    "cena": 2542,
+                    "dostupno": true
+                },
+                {
+                    "id": "trenerka3",
+                    "ime": "Adidas trenerka",
+                    "slika": "adidasdonji.jpg",
+                    "opis": "Adidas (Adidas, stilizovano kao adidas) nemački je proizvođač sportske opreme. Adidas je danas najveći nemački i evropski proizvođač sportske opreme sa fabrikama i prodavnicama širom sveta. Nastao je 1948. godine iz zajedničke firme Adolfa i Rudolfa Daslera. Brend je dobio ime po svom osnivaču Adolfu (Adiju) Dasleru — Adi-Das.Logo ove firme, koji je jedan od najprepoznatljivijih u svetu, predstavljaju tri paralelne crte.Osim sportske obuće — patika, fudbalskih lopti - Adidas Telstar, Adidas proizvodi i drugu sportsku opremu i kozmetiku. ",
+                    "cena": 7421,
+                    "dostupno": false
+                },
+                {
+                    "id": "trenerka4",
+                    "ime": "Nike komplet trenerka",
+                    "slika": "nike.jpg",
+                    "opis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id consequat odio, eu aliquam eros. Donec sed sem congue, fringilla nisi id, molestie orci. Aliquam sed suscipit nunc. Aliquam sit amet massa vel massa tempor auctor. Fusce ex lectus, elementum eget eros at, placerat laoreet leo. Vestibulum faucibus et odio ut tincidunt. Ut eget vehicula ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus aliquam ut velit eget finibus. Morbi tempor sem ac felis eleifend lobortis. Mauris bibendum libero mattis, bibendum metus non, volutpat risus. Nulla varius velit eu placerat aliquet. Phasellus fringilla elit vitae porta dapibus. Aliquam volutpat placerat erat congue suscipit. Nulla at nibh mi. Sed purus velit, congue ut nulla eu, fermentum sollicitudin odio.",
+                    "cena": 17450,
+                    "dostupno": true
+                }
+            ]
+        },
+        {
+        "ime": "Papuce",
+            "predmeti": [
+                {
+                    "id": "papuce1",
+                    "ime": "Nike papuce",
+                    "slika": "papuce.jpg",
+                    "opis": "Najki jedan je od vodećih američkih proizvođača sportske opreme. Sedište ove firme nalazi se u Portlandu, u Oregonu, u SAD.Ova kompanija je do 2008. godine zaposlila preko 30.000 ljudi širom sveta. „Najki” je sponzor mnogih visoko rangiranih sportista i sportskih timova širom sveta, sa svuda prepoznatljivom sloganom (eng) „Just do it”. Današnji konkurenti su nemački „Adidas” i „Puma”. ",
+                    "cena": 4500,
+                    "dostupno": true
+                }
+            ]
+        }
+    ]
+}
